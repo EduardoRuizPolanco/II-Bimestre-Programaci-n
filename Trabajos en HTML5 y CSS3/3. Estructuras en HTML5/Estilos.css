@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+hi{
+    color: crimson;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    color: cornsilk;
+
+    font-size: 15px;
+}
+
+
+div h2{
+    color: darkblue;
+}
